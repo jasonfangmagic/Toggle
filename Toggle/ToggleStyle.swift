@@ -5,6 +5,8 @@
 //
 
 // Need to adjust all width by ratio, frame, offset x
+// From DLSwitch
+
 import SwiftUI
 
 struct CustomToggleStyle:ToggleStyle {
